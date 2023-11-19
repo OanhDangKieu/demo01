@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+.abc {
+    color: green;
+    size: 14px;
+}
+
+p {
+    color:red;
+    background-color: aqua;
+}
+
+#id_abc {
+    background-color: rgb(135, 98, 98);
+}
+#id_img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
